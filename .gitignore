@@ -18,8 +18,9 @@ __pycache__/
 *.fdb_latexmk
 *.fls
 
-# Markdown files
+# Markdown files (except README)
 *.md
+!README.md
 
 # Gurobi license and logs
 *.lic
