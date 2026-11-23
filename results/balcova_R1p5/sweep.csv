@@ -1,0 +1,4 @@
+P,T,P_star,G_star,G_proven,stage1_seconds,days,P_min,P_max,P_mean,ideal_gap,G_min,rho,gaps_le_3,load_min,load_max,never_on_duty,uncovered_pharmacy_days,days_with_uncovered,access_mean_km,access_worst_km
+4,26,3,13,True,1,26,4,4,4.0,18.75,13,0.693,0,1,2,0,0,0,0.563,1.487
+5,26,3,13,True,0,26,5,5,5.0,15.0,13,0.867,0,1,2,0,0,0,0.469,1.461
+6,24,3,12,True,0,24,6,6,6.0,12.5,12,0.96,0,1,2,0,0,0,0.436,1.444

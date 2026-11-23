@@ -1,0 +1,18 @@
+{
+  "days": 40,
+  "P_min": 2,
+  "P_max": 3,
+  "P_mean": 2.88,
+  "ideal_gap": 26.09,
+  "G_min": 1,
+  "rho": 0.038,
+  "gaps_le_3": 3,
+  "load_min": 0,
+  "load_max": 6,
+  "never_on_duty": 18,
+  "uncovered_pharmacy_days": 272,
+  "days_with_uncovered": 34,
+  "access_mean_km": 0.767,
+  "access_worst_km": 4.144,
+  "unmatched_rows": 1
+}

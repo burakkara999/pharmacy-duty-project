@@ -1,0 +1,4 @@
+P,T,P_star,G_star,G_proven,stage1_seconds,stage2_mip_gap,stage2_seconds,days,P_min,P_max,P_mean,ideal_gap,G_min,rho,gaps_le_3,load_min,load_max,never_on_duty,uncovered_pharmacy_days,days_with_uncovered,access_mean_km,access_worst_km
+6,50,5,7,True,29,0.07744567707542904,305,50,6,6,6.0,27.33,7,0.256,0,1,7,0,0,0,0.533,1.484
+7,40,5,8,True,12,0.06594576148843864,304,40,7,7,7.0,23.43,8,0.341,0,1,5,0,0,0,0.462,1.484
+8,32,5,8,True,7,0.05680083112482336,304,32,8,8,8.0,20.5,8,0.39,0,1,4,0,0,0,0.412,1.484

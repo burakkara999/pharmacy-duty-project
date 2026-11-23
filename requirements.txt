@@ -1,0 +1,4 @@
+gurobipy==13.0.*   # must match the Gurobi license version (academic, v13)
+numpy
+pandas
+matplotlib
